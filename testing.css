@@ -42,7 +42,7 @@ iframe{
     overflow-x: hidden;
     margin-left: -30px;
 }
-@media (max-width: 750px) {
+@media (max-width: 600px) {
     .ad{
         display: none;
     }
